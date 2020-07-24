@@ -1,0 +1,10 @@
+{
+  "name": "OTATest",
+  "displayName": "OTATest",
+  "expo": {
+    "name": "OTATest",
+    "slug": "otatest",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
